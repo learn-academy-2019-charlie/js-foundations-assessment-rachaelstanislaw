@@ -73,7 +73,7 @@ function logIt(){
 
 logIt()
 ```
-'inside' ?
+undefined ?
 
 2. What is JSON? How does it relate to javascript objects?
 
